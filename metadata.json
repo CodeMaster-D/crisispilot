@@ -1,0 +1,6 @@
+{
+  "name": "CrisisPilot",
+  "description": "Emergency decision assistant that helps you think clearly and act safely under pressure during crises, cyber incidents, and urgent personal events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
