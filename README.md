@@ -270,18 +270,3 @@ For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md) and
 ## License
 
 This project is licensed under the **Apache License 2.0**—see the **[LICENSE](LICENSE)** file for the full terms.
-
----
-
-## Author
-
-**Djob Misael**
-- **Email**: djobmisael@gmail.com
-- **GitHub**: [@CodeMaster-D](https://github.com/CodeMaster-D)
-- **Repository**: [Crisis Pilot](https://github.com/CodeMaster-D/crisispilot)
-
----
-
-**Last Updated:** May 2026
-
-View your app in AI Studio: https://ai.studio/apps/4ba0de97-8a25-485b-992d-b4e64ae7a01d
