@@ -263,7 +263,7 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/ImprovesCrisisResponse`)
 5. Open a Pull Request
 
-For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md) and review our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md), review our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) and don't forget to read [NOTICE.md](NOTICE.md)
 
 ---
 
